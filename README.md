@@ -6,3 +6,5 @@ The visual studio extended implementation of DSO
 * parallel computation optimization
 * initial pose & scale estimation
 * lost track for robustness 
+
+# the original DSO source code is form https://github.com/JakobEngel/dso
